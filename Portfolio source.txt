@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>My Portfolio</h1>
+    <h2>About Me</h2>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+    <h2>Work Experience</h2>
+    <h3>Company Name - Job Title</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+    <h3>Company Name - Job Title</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+    <h2>Education</h2>
+    <h3>Degree - Institution Name</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+    <h3>Degree - Institution Name</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+</body>
+</html>`		
